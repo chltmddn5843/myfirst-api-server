@@ -1,0 +1,4 @@
+target/
+
+# generated from *.t templates; contains git credentials
+k8s-build/**/*-withgit.yaml
